@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://evendou.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2019 15:49:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://evendou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://evendou.github.io/post/my-first-blog/</link>
+      <pubDate>Mon, 24 Jun 2019 15:49:22 +0800</pubDate>
+      
+      <guid>https://evendou.github.io/post/my-first-blog/</guid>
+      <description>统一身份管理与访问控制平台
+应用集成技术指南
+V0.1
+就回家回家 中国</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://evendou.github.io/about/</link>
+      <pubDate>Mon, 24 Jun 2019 15:48:16 +0800</pubDate>
+      
+      <guid>https://evendou.github.io/about/</guid>
+      <description> 大家好，我是渣渣辉。
+简介  出生地：香港 性别：男 年龄：38  演员经历  是兄弟就来啃我 是兄弟就来啃我啊 是兄弟就来啃我啊哈哈 不符合要求 喝了咯  </description>
+    </item>
+    
+  </channel>
+</rss>
